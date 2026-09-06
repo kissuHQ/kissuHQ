@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About me
 
-I enjoy turning ideas into intelligent systems and exploring the possibilities of AI/ML.
+I enjoy turning ideas into useful digital experiences, exploring new technologies, and building systems that solve real problems.
 
 ### 🔭 Currently working on
 
