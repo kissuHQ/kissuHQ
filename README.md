@@ -79,7 +79,7 @@ I enjoy turning ideas into useful digital experiences, exploring new technologie
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kissuhq&theme=tokyonight&hide_border=true&background=0f172a&ring=60a5fa&fire=f472b6&currStreakLabel=c084fc" alt="GitHub contribution streak" width="100%">
+  <img src="https://streak-stats.demolab.com/?user=kissuhq&theme=tokyonight&hide_border=true&background=0f172a&ring=60a5fa&fire=f472b6&currStreakLabel=c084fc" alt="GitHub contribution streak" width="100%">
 </div>
 
 <br>
