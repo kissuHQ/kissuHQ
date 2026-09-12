@@ -178,7 +178,8 @@ I'm a passionate full-stack developer and AI/ML enthusiast dedicated to **transf
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | **ShreeGen AI** | Advanced AI Assistant with LLM integration and intelligent conversational capabilities | Python, TensorFlow, FastAPI, React |
-| **Full-Stack Web Applications** | Modern web applications showcasing best practices in development and design | Next.js, TypeScript, PostgreSQL, Tailwind CSS |
+| **MySchoolWeb** | Comprehensive school management and web platform with student enrollment, course management, and admin dashboard | Next.js, TypeScript, PostgreSQL, Tailwind CSS |
+| **Lumora** | Modern web application delivering innovative features and seamless user experience | React, JavaScript, Node.js, MongoDB |
 | **Open Source Contributions** | Active contributor to AI, web, and DevOps ecosystems | Various Technologies |
 
 📌 **Explore all projects** on my [GitHub repositories](https://github.com/kissuhq?tab=repositories)
